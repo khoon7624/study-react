@@ -1,1 +1,1 @@
-# study-react
+React.js 스터디
